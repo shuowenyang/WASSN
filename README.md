@@ -1,1 +1,1 @@
-# WASSN
+Weighted attention spectral-spatial network!
