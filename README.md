@@ -1,1 +1,2 @@
-Weighted attention spectral-spatial network!
+Single-pixel hyperspectral reconstruction with convolutional spatial-spectral attention network!
+The code is being sorted out!
